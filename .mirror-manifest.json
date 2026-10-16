@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "canonical_repository": "prest4u/eric-agent-skills",
+  "skill": "eric-review",
+  "version": "1.0.1",
+  "source_commit": "1d5e654b1a54ec0d72246f50889ef47ece142475",
+  "managed_files": {
+    ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
+    "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
+    "LICENSE": "5c22156d56eba148899e472b10cf1662e6387d1b7f5aec552d9772fc29579ebe",
+    "QUICK_START.md": "c7361c77d5d3b0531eea4663d1580b99cae284529a99c0995448832f6e6ed95a",
+    "README.md": "3eb26ac731496f3d3476bb49df45b1dc88d7098ce33e506d715524dcedba3ee1",
+    "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
+    "SKILL.md": "6d1d3baf060a99b87974315b7cc61fe2c06400c3475475b14487ad23c5444d12",
+    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "agents/openai.yaml": "02c45b412fdfa839591b45573afed493b1a9c3c39e6ccba6f3bcc0f62110e6bc",
+    "references/code-review.md": "e86968f85b8c09b266f83f604bcec298bcd7c5df5ab7441d71de2dec18b6dbb2",
+    "references/eric-preferences.md": "955a9b11f16f3677b7bb28da85e44e5f5a74568d25c4bb97128abf37262a6dae",
+    "references/handoff-contract.md": "20f5738b39ca8150c138086672f7593175f8b0a52478776224fb1acbe2e460d6",
+    "references/review-router.md": "f8cdf2c4049988ec517a5150dcdff47a8d553c3fea3374b64e85ac89b6bd6279",
+    "references/self-check-rubric.md": "78b6d5c4807b86dfa84be3701cf390c62b67bd2361655ac7c0b773805e714297",
+    "references/synthesis-rules.md": "a630ef4bb7857b4cab1cfce6119fb10f28999f9ac6281e710ca88563ad744697",
+    "references/teaching-review.md": "5dd0d7f060abde21ebc25f52adf89305d999d2c37422fd67cdcc86b238a1403a",
+    "references/ui-ux-review.md": "ea7264f8f9a4d4fea14e4f6ffc533ec69388b69d9d05100488f38e3384013402",
+    "references/video-content-review.md": "6cf153382f492ff89c05ca5c48caa33b1b9098157e0472d27e9261a84f83c5ec",
+    "references/visual-document-review.md": "3debfd3959c90b2d085ba169774c941cb276aeaad4001208fdcc9d09fb3330f9",
+    "test-prompts.json": "edda45346b9b16e1848f3738a62547f8421cf15fbbf7f4931d904501d4c2fdeb",
+    "tests/test_contract.py": "dcd4255403150bc9a9e980d4858c2ea40005b0bd7e7b7ed68b18710e786c5f8b"
+  }
+}
