@@ -3,7 +3,7 @@
   "canonical_repository": "prest4u/eric-agent-skills",
   "skill": "eric-review",
   "version": "1.0.1",
-  "source_commit": "b099eccddf74ec6a4aef3376fb281b70c867475d",
+  "source_commit": "dc360d012f77bd665727260ee0cd4b41e4ce966f",
   "managed_files": {
     ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
     "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
@@ -12,7 +12,7 @@
     "README.md": "3eb26ac731496f3d3476bb49df45b1dc88d7098ce33e506d715524dcedba3ee1",
     "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
     "SKILL.md": "6d1d3baf060a99b87974315b7cc61fe2c06400c3475475b14487ad23c5444d12",
-    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "THIRD_PARTY_NOTICES.md": "dc1667892413fa4113395d15c45edb842dcf4629d1c7aa7cccea96fee56ee8a8",
     "agents/openai.yaml": "02c45b412fdfa839591b45573afed493b1a9c3c39e6ccba6f3bcc0f62110e6bc",
     "references/code-review.md": "e86968f85b8c09b266f83f604bcec298bcd7c5df5ab7441d71de2dec18b6dbb2",
     "references/eric-preferences.md": "955a9b11f16f3677b7bb28da85e44e5f5a74568d25c4bb97128abf37262a6dae",
