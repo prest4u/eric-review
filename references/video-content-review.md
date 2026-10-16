@@ -26,3 +26,4 @@ Cite title, cover text, timestamp/section, exact script lines, or missing produc
 ## Reviewer Non-Scope
 
 Do not review code correctness or teaching source authenticity unless the video makes those claims.
+
